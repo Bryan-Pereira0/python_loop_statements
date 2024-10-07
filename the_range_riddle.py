@@ -1,3 +1,4 @@
+#task1
 import random
 moods = ["happy","sad","energetic","calm"]
 weekday = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
